@@ -1,0 +1,85 @@
+body{
+    background-color: cornflowerblue;
+    padding: 0px;
+    margin: 0px;
+}
+#home_page{
+    background-color: beige;
+    top: 25vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    height: 25vh;
+    width: 50vw;
+}
+#login_home_page{
+    background-color: darkgray;
+    top: 25vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: 30vh;
+    width: 50vw;
+
+}
+#register_home_page{
+    background-color: darkslategrey;
+    top: 25vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: 45vh;
+    width: 40vw;
+}
+#header{
+    background-color: darkorange;
+    height: 8vh;
+    width: 101vw;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+}
+#logout_link{
+    text-decoration: name;
+    color: white;
+}
+#left_sidebar{
+    margin-top: 50px;
+    width: 13vw;
+    height: 30vh;
+    display: inline-block;
+}
+#left_sidebar table tr{
+    background-color: bisque;
+    color: white;
+    font-size: 18px;
+}
+#left_sidebar table tr:hover{
+    background-color: cornflowerblue;
+    font-size:20px;
+    color: black;
+}
+#logout_link{
+    text-decoration: none;
+    color: white;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+.link hover{ 
+    color: black;
+}
+#logout_link:hover{
+    background-color: lightblue;
+    color: black;
+}
+#right_sidebar{
+    padding: 35px;
+    height: 75vh;
+    width: 75vw;
+    display: inline-block;
+    color: white;
+}
